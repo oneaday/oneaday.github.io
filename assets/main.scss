@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+.site-subtitle {
+  @include relative-font-size(1);
+  display: block;
+  padding: 0;
+  margin-bottom: 10px;
+  margin-top: -10px;
+  color: $grey-color;
+  line-height: 1.00;
+  font-weight: normal;
+  letter-spacing: normal;
+}
+.site-title a {
+  font-weight: 900;
+
+  &,
+  &:link {
+    color:#8b0000;
+  }
+  &:visited {
+    color: #8b0000;
+  }
+  &:hover {
+    color:#8b0000;
+  }
+  &:active {
+    color:#8b0000;
+  }
+}
