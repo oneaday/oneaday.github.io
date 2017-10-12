@@ -16,7 +16,7 @@
 title: One HPC Paper a day
 email: onehpcpaper@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  an interesting paper from HPC every day, picked by John West
+  an interesting paper from HPC every day
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: onehpcpaper
